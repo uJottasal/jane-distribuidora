@@ -1,0 +1,2 @@
+As imagens do Grelhaditos e da arte Arraiá de Ofertas foram embutidas diretamente no index.html em base64 para evitar erro de imagem quebrada no GitHub Pages quando a pasta img não é enviada corretamente.
+Ainda assim, a pasta img foi mantida no projeto como backup.

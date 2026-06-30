@@ -23,15 +23,6 @@ Foram utilizados dados públicos encontrados na presença online da empresa e em
 - Produtos/marcas citados em publicações públicas: Pitchula e Grelhaditos
 - WhatsApp divulgado em publicação: `(63) 9219-1159`
 
-## Alterações desta versão
-
-- Remoção do contador promocional zerado.
-- Troca da linguagem “Dados do Instagram” por “Presença comercial”.
-- Substituição das ilustrações SVG de produtos e portfólio por imagens reais/externas pesquisadas na web.
-- Formulário de contato agora abre o WhatsApp com mensagem preenchida.
-- Ajustes visuais no hero, cards de produtos, portfólio e responsividade.
-- Inclusão do arquivo `REFERENCIAS-IMAGENS.md` com as fontes das imagens usadas.
-
 ## Tecnologias usadas
 
 - HTML5 semântico
